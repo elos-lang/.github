@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/elos-lang/elos">
+    <img width="200" src="https://raw.githubusercontent.com/elos-lang/elos/main/icon.png">
+  </a>
+</p>
+
 # ELOS Language
 ## Build HTML emails, but without the torture
 
