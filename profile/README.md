@@ -1,6 +1,6 @@
 <p>
   <a href="https://github.com/elos-lang/elos">
-    <img width="200" src="https://raw.githubusercontent.com/elos-lang/elos/main/logo.png">
+    <img width="150" src="https://raw.githubusercontent.com/elos-lang/elos/main/logo.png">
   </a>
 </p>
 
