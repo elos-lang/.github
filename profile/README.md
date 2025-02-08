@@ -4,7 +4,6 @@
   </a>
 </p>
 
-# ELOS Language
 ## Build HTML emails, but without the torture
 
 Crafting HTML emails has always been a pain—inline styles, inconsistent 
